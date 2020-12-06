@@ -1,0 +1,66 @@
+# IDE files
+
+#-Intellij IDEA
+
+b2cSelling-PageObejcts/.idea/.name
+b2cSelling-PageObejcts/.idea/misc.xml
+b2cSelling-Tests/.idea/misc.xml
+b2cSelling-Tests/.idea/workspace.xml
+b2cSelling-PageObejcts/.idea/workspace.xml
+b2cSelling-PageObejcts/.idea/compiler.xml
+.idea
+*.iml
+
+
+#ECLIPSE
+
+.classpath
+.project
+.settings
+
+#OS files
+
+#- MAC
+
+.DS_Store
+
+#Project 
+
+target
+test-output
+
+
+#Compliled code
+
+bin
+
+#MISC
+
+# ignore any file starting with "local" such as local_testng.xml  etc,.
+#local***
+temp_persist_config_005.xml
+temp_persist_config_012.xml
+temp_persist_config_015.xml
+*.log
+chromedriverMAC
+velocity.log
+TestReport.csv
+EchoService.InvokerConfigurations-persist.xml
+chromedriverWINDOWS.exe
+*.xpi
+
+# HAR
+netExport*
+B2CSellingAutomationTesting/src/test/java/com/ebay/automation/b2cselling/cub/SaasTrackingTests.java
+B2CSellingAutomationTesting/src/test/java/com/ebay/automation/b2cselling/cub/SaasTrackingTests.java
+B2CSellingAutomationTesting/src/test/java/com/ebay/automation/b2cselling/cub/CUBCustomizeTests.java
+B2CSellingAutomationTesting/geckodriverMAC
+B2CSellingAutomationTesting/src/test/resources/tests/local/*
+
+
+#vscode
+.vscode
+B2CSellingAutomationTesting/automan_settings.properties
+B2CSellingAutomationTesting/.pydevproject
+B2CSellingPageObjects/.pydevproject
+/.metadata/
